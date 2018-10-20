@@ -9,7 +9,7 @@ var wordAnswerArray = [];
 for (var i = 0; i < word.length; i++);{
 wordAnswerArray[i] = "_";
 }
-//above inserts "_" for each letter
+//above inserts "_" for each letter 
 
 var lettersLeft = word.length; 
 
